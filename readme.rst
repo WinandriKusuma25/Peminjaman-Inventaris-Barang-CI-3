@@ -4,6 +4,9 @@ Login Admin :
 Email :winandrikusuma27@gmail.com
 Pass : 1234
 
+Login Peminjam :
+Email :fandi.zahiradana@gmail.com
+Pass : user
 Url : peminjaman/auth/
 
 
